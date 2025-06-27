@@ -51,8 +51,8 @@ A fun and interactive Kanye West quote generator built using Python and the Tkin
 
 ## Screenshot 📸
 
-> *(Add a screenshot of the running app here for better presentation)*
-> ![App Screenshot](preview.png)
+![image](https://github.com/user-attachments/assets/fe1878a2-9508-4465-bd66-2316e4746f74)
+
 
 ---
 
